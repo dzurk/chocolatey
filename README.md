@@ -3,6 +3,7 @@ chocolatey packages for USF
 
 todo
 - move embedded installation media to repo
+- create more packages
 
 
 | Application                       | repo | icon | description | exe/msi                  | 32/64 | version        | setup files location                               | additional files                         | checksum                                 | uninstall                                                    | license                                                      | license applied | choco               | tested | in repo | cli args                                                     | notes                                                        |
