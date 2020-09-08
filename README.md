@@ -7,6 +7,7 @@ todo
 
 notes
 - nuspec files can be unzipped
+- chocolately recommends .nuspec files be <100MB
 
 
 | Application                       | repo | icon | description | exe/msi                  | 32/64 | version        | setup files location                               | additional files                         | checksum                                 | uninstall                                                    | license                                                      | license applied | choco               | tested | in repo | cli args                                                     | notes                                                        |
