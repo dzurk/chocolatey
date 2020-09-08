@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Do not remove this test for UTF-8: if “Ω” doesn’t appear as greek uppercase omega letter enclosed in quotation marks, you should use an editor that supports UTF-8, not this one. -->
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>ads-2020</id>
+    <version>2020</version>
+    <title>Advanded Design System 2020</title>
+    <authors>Keysight Technologies</authors>
+    <iconUrl>https://i.imgur.com/vZl1ZIQ.jpg</iconUrl>
+    <tags>ads 2020</tags>
+    <summary>PathWave Advanced Design System (ADS) 2020</summary>
+    <description><![CDATA[
+### PathWave Advanced Design System (ADS) 2020 delivers new features and capabilities for:
+
+* RF & Microwave Design
+* Signal Integrity and Power Integrity Design
+* Power Electronics Design
+
+**PathWave Advanced Design System (ADS) 2020** is the next major step in delivering new capabilities, new technologies and more improvements to further improve design productivity and efficiency.
+]]></description>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>

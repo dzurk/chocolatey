@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Do not remove this test for UTF-8: if “Ω” doesn’t appear as greek uppercase omega letter enclosed in quotation marks, you should use an editor that supports UTF-8, not this one. -->
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>risa-3d</id>
+    <version>1804</version>
+    <title>Risa 3D</title>
+    <authors>RISA Tech</authors>
+    <iconUrl>https://i.imgur.com/HAIN1VY.png</iconUrl>
+    <tags>risa 3d</tags>
+    <summary>RISA-3D is a general-purpose dimensional analysis and design program</summary>
+    <description><![CDATA[
+    This program has been developed to make the definition, solution and modification of structural models as fast and easy as possible. Analysis, up to and including calculation of maximum deflections and stresses, maybe done on structures constructed of any material or combination of materials. Complete steel and wood design are also included in the program.
+]]></description>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>s

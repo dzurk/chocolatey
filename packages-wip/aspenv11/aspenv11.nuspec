@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Do not remove this test for UTF-8: if “Ω” doesn’t appear as greek uppercase omega letter enclosed in quotation marks, you should use an editor that supports UTF-8, not this one. -->
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>aspenv11</id>
+    <version>11.0.0.0</version>
+    <title>Aspen Plus V11</title>
+    <authors>AspenTech</authors>
+    <iconUrl>https://i.imgur.com/UZ9RgBZ.jpg</iconUrl>
+    <tags>aspen plus v11</tags>
+    <summary>Decrease reaction times and improve production performance with comprehensive real-time visibility into your operations.</summary>
+    <description>Unparalleled Visualization and Analysis in a Single Real-Time Environment</description>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>

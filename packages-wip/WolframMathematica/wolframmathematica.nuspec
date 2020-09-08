@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>wolfram-mathematica</id>
+    <title>Wolfram Mathematica</title>
+    <version>11.3.0</version>
+    <authors>Wolfram</authors>
+    <tags>wolfram-mathematica</tags>
+    <description>Wolfram Mathematica</description>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>

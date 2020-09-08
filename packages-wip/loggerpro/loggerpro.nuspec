@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Do not remove this test for UTF-8: if “Ω” doesn’t appear as greek uppercase omega letter enclosed in quotation marks, you should use an editor that supports UTF-8, not this one. -->
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>loggerpro</id>
+    <version>3.4.6</version>
+    <title>Logger Pro</title>
+    <authors>Vernier</authors>
+    <iconUrl>https://i.imgur.com/RkqK4Q4.png</iconUrl>
+    <tags>vernier logger pro</tags>
+    <summary>Data-collection and analysis software</summary>
+    <description>
+ - Auto-ID sensors make setup effortless. 
+ - Collect live data from more than 80 different sensors and devices.
+ -  Draw predictions on a graph before collecting data.
+ - Use a variety of data-collection modes, as needed, for your experiment: time-based data, selected events, events with typed-in entries, photogate, radiation counting, and more.
+ - Manually enter data for graphing and analysis.
+ - Import data from Vernier interfaces.
+ - Lay out graphs, tables, and text as needed across multiple pages to describe your experiment.
+ - Read values and slope from graphs using examine and tangent line tools.
+ - Print graphs and data tables.</description>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>

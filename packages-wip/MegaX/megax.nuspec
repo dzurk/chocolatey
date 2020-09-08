@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Do not remove this test for UTF-8: if “Ω” doesn’t appear as greek uppercase omega letter enclosed in quotation marks, you should use an editor that supports UTF-8, not this one. -->
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>megax</id>
+    <version>10.0.5</version>
+    <title>Mega-X</title>
+    <authors>Sudhir Kumar</authors>
+    <projectUrl>https://www.megasoftware.net/</projectUrl>
+    <iconUrl>https://i.imgur.com/0ds1CDP.png</iconUrl>
+    <tags>mega-x</tags>
+    <summary>Sophisticated and user-friendly software suite for analyzing DNA and protein sequence data from species and populations. </summary>
+    <description>The **Molecular Evolutionary Genetics Analysis** (MEGA) software implements many analytical methods and tools forphylogenomics and phylomedicine. Here, we report a transformation of MEGAto enable cross-platform use onMicrosoft Windows and Linux operating systems. MEGAX does not require virtualization or emulation software andprovides a uniform user experience across platforms. MEGAX has additionally been upgraded to use multiple computingcores for many molecular evolutionary analyses. MEGAX is available in two interfaces (graphical and command line) andcan be downloaded from www.megasoftware.net free of charge.</description>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>

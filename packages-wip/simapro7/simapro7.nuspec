@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Do not remove this test for UTF-8: if “Ω” doesn’t appear as greek uppercase omega letter enclosed in quotation marks, you should use an editor that supports UTF-8, not this one. -->
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>simapro7</id>
+    <version>7.3.3</version>
+    <title>SimaPro 7</title>
+    <authors>SimaPro</authors>
+    <iconUrl>https://i.imgur.com/HrAFUKG.jpg</iconUrl>
+    <tags>sima pro 7</tags>
+    <summary>LCA software for fact-based sustainability</summary>
+    <description>
+#### With SimaPro, you can:
+
+-   Easily model and analyse complex life cycles in a systematic and transparent way.
+-   Measure the environmental impact of your products and services across all life cycle stages.
+-   Identify the hotspots in every link of your supply chain, from extraction of raw materials to manufacturing, distribution, use, and disposal.</description>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>

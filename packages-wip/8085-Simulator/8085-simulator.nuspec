@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Do not remove this test for UTF-8: if “Ω” doesn’t appear as greek uppercase omega letter enclosed in quotation marks, you should use an editor that supports UTF-8, not this one. -->
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>8085-simulator</id>
+    <version>2.0.0.4</version>
+    <title>8085 Simulator</title>
+    <authors>JUBIN MITRA</authors>
+    <projectSourceUrl>https://github.com/8085simulator/8085simulator.github.io</projectSourceUrl>
+    <tags>8085 Simulator</tags>
+    <description>With the academic learning purpose in mind the 8085 simulator software is designed. It helps in get started easily with example codes, and to learn the architecture playfully. It also provides a trainer kit as an appealing functional alternative to real hardware. The users can write assembly code easily and get results quickly without even having the actual hardware.</description>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>

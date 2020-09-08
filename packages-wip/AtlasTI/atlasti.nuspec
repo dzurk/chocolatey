@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Do not remove this test for UTF-8: if “Ω” doesn’t appear as greek uppercase omega letter enclosed in quotation marks, you should use an editor that supports UTF-8, not this one. -->
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>atlasti</id>
+    <title>ATLAS.ti</title>
+    <version>6.02.23</version>
+    <authors>ATLAS.ti</authors>
+    <iconUrl>https://i.imgur.com/1mwyFr3.jpg</iconUrl>
+    <tags>atlas ti</tags>
+    <description>### ATLAS.ti is a powerful workbench for the qualitative analysis of large bodies of textual, graphical, audio and video data.
+
+Sophisticated tools help you to arrange, reassemble, and manage your material in creative, yet systematic ways. ATLAS.ti keeps you focused on the material itself. Whether your field is anthropology, economics, criminology, or medicine: ATLAS.ti will meet your qualitative analysis needs!</description>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>

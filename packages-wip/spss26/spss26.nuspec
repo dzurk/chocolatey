@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>spss26</id>
+    <version>26.0</version>
+    <title>IBM SPSS Statistics 26</title>
+    <authors>IBM</authors>
+    <iconUrl>https://i.imgur.com/Gj5Fw9j.jpg</iconUrl>
+    <tags>IBM SPSS Statistics 26</tags>
+    <summary>Make it easier to perform powerful statistical analysis.</summary>
+    <description>IBM® SPSS® Statistics is the world’s leading statistical software used to solve business and research problems by means of ad-hoc analysis, hypothesis testing, and predictive analytics. Organizations use IBM SPSS Statistics to understand data, analyze trends, forecast and plan to validate assumptions and drive accurate conclusions.</description>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
