@@ -2,7 +2,7 @@
 
 $packageName= $env:ChocolateyPackageName
 $toolsDir   = "$(Split-Path -Parent $MyInvocation.MyCommand.Definition)"
-$fileLocation = Join-Path $toolsDir 'Vikas_Enterprises_8085_Simulator.msi'
+$fileLocation = Join-Path $toolsDir '\\10.0.0.6\files\8085-simulator\Vikas Enterprises 8085 Simulator.msi'
 
 $packageArgs = @{
   packageName   = $packageName
