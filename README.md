@@ -6,8 +6,8 @@ todo
 - create more packages
 
 notes
-- nuspec files can be unzipped
-- chocolately recommends .nuspec files be <100MB
+- nupkg files can be unzipped
+- chocolately recommends .nupkg files be <100MB
 - these packages are pointed to the repo at 10.0.0.6\repo. change for your environment
 
 
