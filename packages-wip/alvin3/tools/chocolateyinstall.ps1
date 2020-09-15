@@ -1,6 +1,6 @@
 ﻿$ErrorActionPreference = 'Stop';
 $toolsDir   = "$(Split-Path -Parent $MyInvocation.MyCommand.Definition)"
-$fileLocation = Join-Path $toolsDir 'Alvin3FullWindowsSetup.exe'
+$fileLocation = Join-Path $toolsDir '\\10.0.0.6\files\alvin3\Alvin3FullWindowsSetup.exe'
 
 $packageArgs = @{
   packageName   = $env:ChocolateyPackageName
